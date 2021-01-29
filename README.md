@@ -43,9 +43,9 @@ Model Linear Regression models and evaluate each model for final implementation
 
 Implement feature engineering and final model to the data set.
 
-Modeling
+**Modeling**
 
-Using Scikit-learn package 4 linear regression models were crated.
+Using Scikit-learn package 4 linear regression models were created.
 
 
 Model 1 : Linear Regression
