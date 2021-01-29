@@ -6,19 +6,19 @@ Repository Structure
 
 
 .
-├── data                                # data folder
+  data                                 # data folder
 
-├── reference                           # project work book and reference files
+ reference                             # project work book and reference files
 
-├── images                              # project image/graph files
+ images                                # project image/graph files
 
-├── models                              # final regression models
+ models                                # final regression models
 
-├── results                             # model predicted file location
+ results                               # model predicted file location
 
-├── housing_price_prediction.ipynb      # final project notebook with EDA and model creation
+ housing_price_prediction.ipynb        # final project notebook with EDA and model creation
 
-└── README.md
+ README.md
 
 
 **Business Problem**
