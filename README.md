@@ -24,22 +24,38 @@ A Seattle real estate company seeks to increase porfolio in King County Seattle 
 During the exploratory phase following questions will also be focused on:
 
 What location in the county has the highest property value?
+
 What aspects of the property brings value?
+
 Do renovations have effect on property value?
+
 Approach
+
 Check for data completeness and integrity
+
 Perform EDA with statistical analysis to determine statistically significant features
+
 Visualize statistically significant features
+
 Engineer new features based on stastistical findings
+
 Model Linear Regression models and evaluate each model for final implementation
+
 Implement feature engineering and final model to the data set.
+
 Modeling
+
 Using Scikit-learn package 4 linear regression models were crated.
 
+
 Model 1 : Linear Regression
+
 Model 2 : Linear Regression with Kbest feature selection
+
 Model 3 : Linear Regression with Recursive Feature Elminiation and Cross Valdiation
+
 Model 4 : Linear Regression with Kbest feature selection with Ridge regression
+
 It was determined that the simple Linear Regression with model perfromed the best and was utilized for the final implementation.
 
 Summary
