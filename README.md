@@ -61,3 +61,5 @@ It was determined that the simple Linear Regression with model perfromed the bes
 **Summary**
 
 Basic linear Regression with 51 features had the lowest Root Mean Square Error (RMSE) error value. These means that Model number 1 was better than the other models at prediction home prices on useen data. From the data set analysis and model coefficients, the features the have the highest impact on home prices are square foot living, number of bathrooms, number of bedrooms, grade, and condition.
+
+**Author**: SAAD RAEES
