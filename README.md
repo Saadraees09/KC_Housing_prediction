@@ -29,7 +29,7 @@ What aspects of the property brings value?
 
 Do renovations have effect on property value?
 
-Approach
+**Approach**
 
 Check for data completeness and integrity
 
