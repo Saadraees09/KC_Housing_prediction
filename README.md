@@ -1,7 +1,10 @@
-Overview
+##Overview
+
 This project will utilize multiple regression analysis to predict housing prices using data of homes sold in King County, WA, during 2014 and 2015. This dataset will be explored for completeness and integrity, relationships between attributes and target variable, and for feature engineering. Several models will be built and trained by SciKit python library to generate predictions on unseen data. A final model will be chosen based on its Root Mean Squared Error (RMSE) value. The data and project scope was provide by Flatiron School for Data Science Immersive program phase 2 final project.
 
 Repository Structure
+
+
 .
 ├── data                                # data folder
 ├── reference                           # project work book and reference files
@@ -10,7 +13,11 @@ Repository Structure
 ├── results                             # model predicted file location
 ├── housing_price_prediction.ipynb      # final project notebook with EDA and model creation
 └── README.md
-Business Problem
+
+
+**Business Problem**
+
+
 A Seattle real estate company seeks to increase porfolio in King County Seattle and wants to accurately predict the sales price of a property. Having an accurate sales prediction will aid in strategizing the investment options to maximize their profit. A multiple linaer regression model will be built base on provided property data for this task.
 
 During the exploratory phase following questions will also be focused on:
